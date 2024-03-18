@@ -1,0 +1,49 @@
+packages:
+  - awscli
+  - bat
+  - cowsay
+  - httpie
+  - helm
+  - eza
+  - figlet
+  - go
+  - go-task
+  - gum
+  - k3d
+  - k9s
+  - kind
+  - kubernetes-cli
+  - lazydocker
+  - lazygit
+  - jq
+  - mpv
+  - opentofu
+  - charmbracelet/tap/skate
+  - terraform
+  - tig
+  - tmux
+  - turso
+  - yq
+  - zoxide
+
+casks:
+  - amethyst
+  - arc
+  - bitwarden
+  - discord
+  - font-jetbrains-mono-nerd-font
+  - gimp
+  - google-cloud-sdk
+  - gpg-suite
+  - iterm2
+  - meld
+  - obs
+  - rancher
+  - raycast
+  - slack
+  - spotify
+  - vlc
+
+taps:
+  - turbot/tap
+  - charmbracelet/tap
